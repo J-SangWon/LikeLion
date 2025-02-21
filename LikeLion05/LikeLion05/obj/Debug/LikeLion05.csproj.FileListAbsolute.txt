@@ -1,0 +1,7 @@
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\LikeLion05\LikeLion05\bin\Debug\LikeLion05.exe.config
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\LikeLion05\LikeLion05\bin\Debug\LikeLion05.exe
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\LikeLion05\LikeLion05\bin\Debug\LikeLion05.pdb
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\LikeLion05\LikeLion05\obj\Debug\LikeLion05.csproj.AssemblyReference.cache
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\LikeLion05\LikeLion05\obj\Debug\LikeLion05.csproj.CoreCompileInputs.cache
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\LikeLion05\LikeLion05\obj\Debug\LikeLion05.exe
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\LikeLion05\LikeLion05\obj\Debug\LikeLion05.pdb
