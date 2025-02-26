@@ -1,0 +1,7 @@
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\blacksmith\blacksmith\bin\Debug\blacksmith.exe.config
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\blacksmith\blacksmith\bin\Debug\blacksmith.exe
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\blacksmith\blacksmith\bin\Debug\blacksmith.pdb
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\blacksmith\blacksmith\obj\Debug\blacksmith.csproj.AssemblyReference.cache
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\blacksmith\blacksmith\obj\Debug\blacksmith.csproj.CoreCompileInputs.cache
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\blacksmith\blacksmith\obj\Debug\blacksmith.exe
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\blacksmith\blacksmith\obj\Debug\blacksmith.pdb
