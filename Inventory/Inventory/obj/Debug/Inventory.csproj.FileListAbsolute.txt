@@ -1,0 +1,7 @@
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\Inventory\Inventory\bin\Debug\Inventory.exe.config
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\Inventory\Inventory\bin\Debug\Inventory.exe
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\Inventory\Inventory\bin\Debug\Inventory.pdb
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\Inventory\Inventory\obj\Debug\Inventory.csproj.AssemblyReference.cache
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\Inventory\Inventory\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\Inventory\Inventory\obj\Debug\Inventory.exe
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\Inventory\Inventory\obj\Debug\Inventory.pdb
