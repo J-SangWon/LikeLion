@@ -1,0 +1,7 @@
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\ShootingGame_2\ShootingGame_2\bin\Debug\ShootingGame_2.exe.config
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\ShootingGame_2\ShootingGame_2\bin\Debug\ShootingGame_2.exe
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\ShootingGame_2\ShootingGame_2\bin\Debug\ShootingGame_2.pdb
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\ShootingGame_2\ShootingGame_2\obj\Debug\ShootingGame_2.csproj.AssemblyReference.cache
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\ShootingGame_2\ShootingGame_2\obj\Debug\ShootingGame_2.csproj.CoreCompileInputs.cache
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\ShootingGame_2\ShootingGame_2\obj\Debug\ShootingGame_2.exe
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\ShootingGame_2\ShootingGame_2\obj\Debug\ShootingGame_2.pdb

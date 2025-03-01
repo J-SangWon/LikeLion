@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asdgh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\LikeLion\\ShootingGame_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94F9EA48-8BDF-488B-B7A6-19E2808ED142}|ShootingGame_2\\ShootingGame_2.csproj|c:\\users\\asdgh\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\study\\likelion\\shootinggame_2\\shootinggame_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F9EA48-8BDF-488B-B7A6-19E2808ED142}|ShootingGame_2\\ShootingGame_2.csproj|solutionrelative:shootinggame_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asdgh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\LikeLion\\ShootingGame_2\\ShootingGame_2\\Program.cs",
+              "RelativeDocumentMoniker": "ShootingGame_2\\Program.cs",
+              "ToolTip": "C:\\Users\\asdgh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\LikeLion\\ShootingGame_2\\ShootingGame_2\\Program.cs",
+              "RelativeToolTip": "ShootingGame_2\\Program.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAApwKwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T04:11:35.736Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
