@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asdgh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\LikeLion\\LikeLion19\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2F1F9A1-A000-41E8-95E3-89768AE111FA}|LikeLion19\\LikeLion19.csproj|c:\\users\\asdgh\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\study\\likelion\\likelion19\\likelion19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2F1F9A1-A000-41E8-95E3-89768AE111FA}|LikeLion19\\LikeLion19.csproj|solutionrelative:likelion19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asdgh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\LikeLion\\LikeLion19\\LikeLion19\\Program.cs",
+              "RelativeDocumentMoniker": "LikeLion19\\Program.cs",
+              "ToolTip": "C:\\Users\\asdgh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\LikeLion\\LikeLion19\\LikeLion19\\Program.cs",
+              "RelativeToolTip": "LikeLion19\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwDoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T05:03:15.066Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

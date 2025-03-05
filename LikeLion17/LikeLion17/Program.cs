@@ -15,7 +15,7 @@ namespace LikeLion17
     //    Warrior Strength 속성을 추가하세요.
     //    Main 메서드에서 Warrior 객체를 생성하고, Name, Score, Strength 값을 설정한 후 출력하세요.
 
-    class Warrior
+    internal class Warrior
     {
         public string Name { get; set; }
         public int Score { get; set; }
@@ -42,9 +42,9 @@ namespace LikeLion17
     //    int[] numbers = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 }; 배열이 주어질 때,
     //    LINQ를 사용하여 짝수만 필터링하고 출력하세요.
     //    LINQ를 사용하여 모든 숫자의 합을 구하고 출력하세요.
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             //1
             //Warrior warrior = new Warrior { Name = "TestName", Score = 100, Strength = 10 };
@@ -76,7 +76,6 @@ namespace LikeLion17
             //    Console.WriteLine(item);
             //}
 
-
             //Stack<int> stack = new Stack<int>();
             //stack.Push(10); stack.Push(20); stack.Push(30);
 
@@ -94,20 +93,17 @@ namespace LikeLion17
             //5
             int[] numbers = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
             var evenNum = numbers.Where(n => n % 2 == 0);
-            foreach (var n in evenNum) 
+            foreach (var n in evenNum)
             {
                 Console.WriteLine(n);
             }
             int sum = numbers.Sum();
             Console.WriteLine($"Sum : {sum}");
 
-
-            //foreach (var n in numbers) 
+            //foreach (var n in numbers)
             //{
             //    sum += n;
             //}
-
-
         }
     }
 }
