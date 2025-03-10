@@ -1,0 +1,7 @@
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\SelfTextRPG\SelfTextRPG\bin\Debug\SelfTextRPG.exe.config
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\SelfTextRPG\SelfTextRPG\bin\Debug\SelfTextRPG.exe
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\SelfTextRPG\SelfTextRPG\bin\Debug\SelfTextRPG.pdb
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\SelfTextRPG\SelfTextRPG\obj\Debug\SelfTextRPG.csproj.AssemblyReference.cache
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\SelfTextRPG\SelfTextRPG\obj\Debug\SelfTextRPG.csproj.CoreCompileInputs.cache
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\SelfTextRPG\SelfTextRPG\obj\Debug\SelfTextRPG.exe
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\SelfTextRPG\SelfTextRPG\obj\Debug\SelfTextRPG.pdb

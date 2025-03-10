@@ -1,0 +1,7 @@
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\TEXTRPG\TEXTRPG\bin\Debug\TEXTRPG.exe.config
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\TEXTRPG\TEXTRPG\bin\Debug\TEXTRPG.exe
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\TEXTRPG\TEXTRPG\bin\Debug\TEXTRPG.pdb
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\TEXTRPG\TEXTRPG\obj\Debug\TEXTRPG.csproj.AssemblyReference.cache
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\TEXTRPG\TEXTRPG\obj\Debug\TEXTRPG.csproj.CoreCompileInputs.cache
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\TEXTRPG\TEXTRPG\obj\Debug\TEXTRPG.exe
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\TEXTRPG\TEXTRPG\obj\Debug\TEXTRPG.pdb

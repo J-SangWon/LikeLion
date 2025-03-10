@@ -1,0 +1,7 @@
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\BrickGame\BrickGame\bin\Debug\BrickGame.exe.config
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\BrickGame\BrickGame\bin\Debug\BrickGame.exe
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\BrickGame\BrickGame\bin\Debug\BrickGame.pdb
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\BrickGame\BrickGame\obj\Debug\BrickGame.csproj.AssemblyReference.cache
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\BrickGame\BrickGame\obj\Debug\BrickGame.csproj.CoreCompileInputs.cache
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\BrickGame\BrickGame\obj\Debug\BrickGame.exe
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\BrickGame\BrickGame\obj\Debug\BrickGame.pdb

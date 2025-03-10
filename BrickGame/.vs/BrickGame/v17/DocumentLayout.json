@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\asdgh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\LikeLion\\BrickGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD5639C-6D24-41E6-AC10-A5E874942174}|BrickGame\\BrickGame.csproj|C:\\Users\\asdgh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\LikeLion\\BrickGame\\brickgame\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFD5639C-6D24-41E6-AC10-A5E874942174}|BrickGame\\BrickGame.csproj|solutionrelative:brickgame\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD5639C-6D24-41E6-AC10-A5E874942174}|BrickGame\\BrickGame.csproj|c:\\users\\asdgh\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\study\\likelion\\brickgame\\brickgame\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFD5639C-6D24-41E6-AC10-A5E874942174}|BrickGame\\BrickGame.csproj|solutionrelative:brickgame\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD5639C-6D24-41E6-AC10-A5E874942174}|BrickGame\\BrickGame.csproj|c:\\users\\asdgh\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\study\\likelion\\brickgame\\brickgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFD5639C-6D24-41E6-AC10-A5E874942174}|BrickGame\\BrickGame.csproj|solutionrelative:brickgame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD5639C-6D24-41E6-AC10-A5E874942174}|BrickGame\\BrickGame.csproj|C:\\Users\\asdgh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\LikeLion\\BrickGame\\brickgame\\balldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFD5639C-6D24-41E6-AC10-A5E874942174}|BrickGame\\BrickGame.csproj|solutionrelative:brickgame\\balldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD5639C-6D24-41E6-AC10-A5E874942174}|BrickGame\\BrickGame.csproj|C:\\Users\\asdgh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\LikeLion\\BrickGame\\brickgame\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFD5639C-6D24-41E6-AC10-A5E874942174}|BrickGame\\BrickGame.csproj|solutionrelative:brickgame\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD5639C-6D24-41E6-AC10-A5E874942174}|BrickGame\\BrickGame.csproj|C:\\Users\\asdgh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\LikeLion\\BrickGame\\brickgame\\bar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFD5639C-6D24-41E6-AC10-A5E874942174}|BrickGame\\BrickGame.csproj|solutionrelative:brickgame\\bar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFD5639C-6D24-41E6-AC10-A5E874942174}|BrickGame\\BrickGame.csproj|C:\\Users\\asdgh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\LikeLion\\BrickGame\\brickgame\\bardata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFD5639C-6D24-41E6-AC10-A5E874942174}|BrickGame\\BrickGame.csproj|solutionrelative:brickgame\\bardata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Block.cs",
+              "DocumentMoniker": "C:\\Users\\asdgh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\LikeLion\\BrickGame\\BrickGame\\Block.cs",
+              "RelativeDocumentMoniker": "BrickGame\\Block.cs",
+              "ToolTip": "C:\\Users\\asdgh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\LikeLion\\BrickGame\\BrickGame\\Block.cs",
+              "RelativeToolTip": "BrickGame\\Block.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAIAywBcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:20:59.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BARDATA.cs",
+              "DocumentMoniker": "C:\\Users\\asdgh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\LikeLion\\BrickGame\\BrickGame\\BARDATA.cs",
+              "RelativeDocumentMoniker": "BrickGame\\BARDATA.cs",
+              "ToolTip": "C:\\Users\\asdgh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\LikeLion\\BrickGame\\BrickGame\\BARDATA.cs",
+              "RelativeToolTip": "BrickGame\\BARDATA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T04:25:01.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bar.cs",
+              "DocumentMoniker": "C:\\Users\\asdgh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\LikeLion\\BrickGame\\BrickGame\\Bar.cs",
+              "RelativeDocumentMoniker": "BrickGame\\Bar.cs",
+              "ToolTip": "C:\\Users\\asdgh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\LikeLion\\BrickGame\\BrickGame\\Bar.cs",
+              "RelativeToolTip": "BrickGame\\Bar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T04:24:30.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\asdgh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\LikeLion\\BrickGame\\BrickGame\\GameManager.cs",
+              "RelativeDocumentMoniker": "BrickGame\\GameManager.cs",
+              "ToolTip": "C:\\Users\\asdgh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\LikeLion\\BrickGame\\BrickGame\\GameManager.cs",
+              "RelativeToolTip": "BrickGame\\GameManager.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAnwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T02:23:04.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ball.cs",
+              "DocumentMoniker": "C:\\Users\\asdgh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\LikeLion\\BrickGame\\BrickGame\\Ball.cs",
+              "RelativeDocumentMoniker": "BrickGame\\Ball.cs",
+              "ToolTip": "C:\\Users\\asdgh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\LikeLion\\BrickGame\\BrickGame\\Ball.cs",
+              "RelativeToolTip": "BrickGame\\Ball.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T01:43:34.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BallData.cs",
+              "DocumentMoniker": "C:\\Users\\asdgh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\LikeLion\\BrickGame\\BrickGame\\BallData.cs",
+              "RelativeDocumentMoniker": "BrickGame\\BallData.cs",
+              "ToolTip": "C:\\Users\\asdgh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\LikeLion\\BrickGame\\BrickGame\\BallData.cs",
+              "RelativeToolTip": "BrickGame\\BallData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T01:38:34.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\asdgh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\LikeLion\\BrickGame\\BrickGame\\Program.cs",
+              "RelativeDocumentMoniker": "BrickGame\\Program.cs",
+              "ToolTip": "C:\\Users\\asdgh\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Study\\LikeLion\\BrickGame\\BrickGame\\Program.cs",
+              "RelativeToolTip": "BrickGame\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T01:36:16.049Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

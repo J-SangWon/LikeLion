@@ -1,0 +1,7 @@
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\LikeLion22\LikeLion22\obj\Debug\LikeLion22.csproj.AssemblyReference.cache
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\LikeLion22\LikeLion22\obj\Debug\LikeLion22.csproj.CoreCompileInputs.cache
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\LikeLion22\LikeLion22\bin\Debug\LikeLion22.exe.config
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\LikeLion22\LikeLion22\bin\Debug\LikeLion22.exe
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\LikeLion22\LikeLion22\bin\Debug\LikeLion22.pdb
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\LikeLion22\LikeLion22\obj\Debug\LikeLion22.exe
+C:\Users\asdgh\OneDrive\바탕 화면\Study\LikeLion\LikeLion22\LikeLion22\obj\Debug\LikeLion22.pdb
